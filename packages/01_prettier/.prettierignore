@@ -1,0 +1,14 @@
+# 忽略build目录
+build/
+# 忽略node_modules目录
+node_modules/
+# 忽略dist目录
+dist/
+# 忽略.git目录
+.git/
+# 忽略.gitignore文件
+.gitignore
+# 忽略.prettierrc文件
+.prettierrc
+# 忽略.eslintrc文件
+.eslintrc
