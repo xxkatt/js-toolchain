@@ -5,13 +5,15 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
-    "check": "prettier --check ."
+    "check": "prettier --check .",
+    "run-format": "node src/format.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@types/node": "^26.6.5",
     "prettier": "^3.9.10",
     "typescript": "^6.0.3"
   }
